@@ -1,17 +1,12 @@
-# Hello 👋
+# Hello 
 
-Software enthusiast exploring different programming languages through small practical projects.
+Software enthusiast exploring different programming languages through small practical projects
 
 ## Languages
 
 - Python
-- Java
-- Go
-- Rust
 - Kotlin
-- C++
-- JavaScript
-- Ruby
+
 
 ## Repository Topics
 
@@ -30,8 +25,4 @@ Software enthusiast exploring different programming languages through small prac
 - Learning projects
 - Programming experiments
 
-## Philosophy
 
-Write code.
-Learn something.
-Repeat.
