@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hello 👋
 
-<!--
-**elizarpirog/elizarpirog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software enthusiast exploring different programming languages through small practical projects.
 
-Here are some ideas to get you started:
+## Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Java
+- Go
+- Rust
+- Kotlin
+- C++
+- JavaScript
+- Ruby
+
+## Repository Topics
+
+- File Utilities
+- Data Analysis
+- CLI Applications
+- Automation
+- Text Processing
+- Generators
+- Catalogs
+- Parsers
+
+## Currently Building
+
+- Small open-source tools
+- Learning projects
+- Programming experiments
+
+## Philosophy
+
+Write code.
+Learn something.
+Repeat.
